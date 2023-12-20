@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+.footer-contacts{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+                color: var(--beauty-landing-2-background, #FFF);
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;       
+}
+/* секція футера */
+.footer-item{
+    background: #011C44;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 186px;
+}
